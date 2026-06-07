@@ -2,9 +2,8 @@
 
 I am currently learning new languages such as Go.
 
-I have experience with Ansible, Python, and *nix shell scripting 
+I have experience with Ansible, Python, and Linux/Unix shell scripting 
 
-I am currently working on a SaaS proof-of-concept and revisiting some of my older projects.
 
 Some of my favorite domains are:
 
